@@ -9,3 +9,6 @@ Other theories related to public choice theory include:
 4. Constitutional Economics: A subfield of public choice theory that analyzes the constitutional rules, enforcement, and design of institutions to understand how they influence the behavior of political and economic agents and affect economic and political outcomes.
 
 5. Behavioral Economics: While public choice traditionally assumes rational behavior, behavioral economics incorporates insights from psychology to explore deviations from rationality in economic and political decisions, such as biases and heuristics.
+
+
+But the normative economics of social decision-making is typically placed under the closely related field of social choice theory, which takes a mathematical approach to the aggregation of individual interests, welfare, or votes.
